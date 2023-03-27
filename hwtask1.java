@@ -10,7 +10,7 @@ public class hwtask1 {
         System.out.println("Введите два числа: ");
         int a = scan.nextInt();
         int b = scan.nextInt();
-        System.out.println("Кубы этих чисел равны: " + array[a - 1] + " и " + array[b - 18]);
+        System.out.println("Кубы этих чисел равны: " + array[a - 1] + " и " + array[b - 1]);
 
     }
 }
