@@ -3,8 +3,6 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-import javax.swing.plaf.basic.BasicComboPopup.ListDataHandler;
-
 public class Hwtask32 {
     public static void main(String[] args) {
 
